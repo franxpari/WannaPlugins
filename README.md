@@ -1,7 +1,8 @@
 # WannaPlugins
 A assemble of Minecraft Plugins for 1.15.1.
 
-Italiano
+> Italiano
+
 Questo plugin aggiunge molti comandi per migliorare l'esperienza di gioco da parte degli amministratori e degli utenti in se.
 Continene queste funzionalita:
 
@@ -21,7 +22,7 @@ Il plugin e' anche ricco di listener, modifica il messaggio di morte, di entrata
 
 Contiene anche un EasterEgg, quello di Herobrine: fara' prendere un bello spavento alle persone, se fatto nel momento giusto!
 
-English
+> English
 
 This plugin adds many commands to improve the gaming experience for administrators and users alike.
 Continue these features:
@@ -42,7 +43,8 @@ The plugin is also full of listeners, it modifies the player's death, entry and 
 
 It also contains an EasterEgg, that of Herobrine: it will make people frighten, if done at the right time!
 
-###Chinese
+> Chinese
+
 该插件添加了许多命令，以改善管理员和用户的游戏体验。
 
 继续执行以下功能：
