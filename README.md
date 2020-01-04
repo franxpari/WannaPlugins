@@ -1,7 +1,7 @@
 # WannaPlugins
 A assemble of Minecraft Plugins for 1.15.1.
 
-> Italiano
+###Italiano
 Questo plugin aggiunge molti comandi per migliorare l'esperienza di gioco da parte degli amministratori e degli utenti in se.
 Continene queste funzionalita:
   WannaAd e' un comando che permette di mandare un avviso a tutto il server, molto invasivo. Utile se bisogna avvisare di un evento, avvenimento importante.
@@ -13,7 +13,7 @@ Continene queste funzionalita:
 Il plugin e' anche ricco di listener, modifica il messaggio di morte, di entrata e di uscita del giocatore, rendendolo piu semplice e meno invasivo.
 Contiene anche un EasterEgg, quello di Herobrine: fara' prendere un bello spavento alle persone, se fatto nel momento giusto!
 
-> English
+###English
 This plugin adds many commands to improve the gaming experience for administrators and users alike.
 Continue these features:
   WannaAd is a command that allows you to send a warning to the whole server, very invasive. Useful if you need to notify of an event, an important event.
@@ -25,7 +25,7 @@ Continue these features:
 The plugin is also full of listeners, it modifies the player's death, entry and exit message, making it simpler and less invasive.
 It also contains an EasterEgg, that of Herobrine: it will make people frighten, if done at the right time!
 
-> Chinese
+###Chinese
 该插件添加了许多命令，以改善管理员和用户的游戏体验。
 继续执行以下功能：
   WannaAd是一个命令，它使您可以向整个服务器发送警告，这非常具有侵入性。如果您需要通知事件（重要事件），则很有用。
