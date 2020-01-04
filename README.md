@@ -38,7 +38,7 @@ It also contains an EasterEgg, that of Herobrine: it will make people frighten, 
 它还包含一个Herobrine的EasterEgg：如果在正确的时间完成，它将使人们感到恐惧！
 
 Traduction provided by Google Translate.
-
+```
 Plugin.yml
 name: WannaPlugins
 version: ${project.version}
@@ -99,4 +99,4 @@ commands:
     permission: wannaplugins.herobrine
     aliases:
       - herobrine
-
+```
